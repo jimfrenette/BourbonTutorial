@@ -15,4 +15,4 @@ To see the changes between any two steps, use the git diff command.
 
 ### step-01
 
-- Initial commit, README.md and .gitignore
+- Initial commit
