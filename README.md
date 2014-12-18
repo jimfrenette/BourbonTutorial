@@ -16,3 +16,7 @@ To see the changes between any two steps, use the git diff command.
 ### step-01
 
 - Initial commit
+
+### step-02
+
+- Neat and Bitters import
