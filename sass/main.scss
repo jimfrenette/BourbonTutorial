@@ -1,6 +1,6 @@
 @import "../bower_components/bourbon/dist/_bourbon.scss";
-@import '../bower_components/neat/app/assets/stylesheets/neat';
 @import 'base/base';
+@import '../bower_components/neat/app/assets/stylesheets/neat';
 
 button {
     @include button(shiny, #ff0000);
